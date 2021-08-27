@@ -4,20 +4,36 @@
   "website": "https://github.com//testnobody/office_admin_heroku",
   "repository": "https://github.com//testnobody/office_admin_heroku",
   "env": {
-        "a_name": {
-            "description": "全局名字",
+        "1_name": {
+            "description": "1 全局名字",
             "value": ""
         },
-	"b_client_id": {
-            "description": "client_id",
+	"1_client_id": {
+            "description": "1 client_id",
             "value": "165523e0-xxxx-xxxx-xxxx-b470e514a093"
         },
-	"b_tenant_id": {
-            "description": "tenant_id",
+	"1_tenant_id": {
+            "description": "1 tenant_id",
             "value": "8a4a847d-xxxx-xxxx-xxxx-c8a9bdd9ce6f"
         },
-	"b_client_secret": {
-            "description": "client_secret",
+	"1_client_secret": {
+            "description": "1 client_secret",
+            "value": "ox_vt_SJ-_xxxxxxx.mfG20gNIrpx2e_XR"
+        },  
+	"2_name": {
+            "description": "2 全局名字",
+            "value": ""
+        },
+	"2_client_id": {
+            "description": "2 client_id",
+            "value": "165523e0-xxxx-xxxx-xxxx-b470e514a093"
+        },
+	"2_tenant_id": {
+            "description": "2 tenant_id",
+            "value": "8a4a847d-xxxx-xxxx-xxxx-c8a9bdd9ce6f"
+        },
+	"2_client_secret": {
+            "description": "2 client_secret",
             "value": "ox_vt_SJ-_xxxxxxx.mfG20gNIrpx2e_XR"
         },  
         "username": {
