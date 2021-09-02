@@ -9,9 +9,7 @@ return [
 			'client_secret'=> getenv("1_client_secret"),
 			'sku_ids'=>[
 				'a1学生'=>'314c4481-f395-4525-be8b-2ec4bb1e9d91',
-				'a1教职工'=>'94763226-9b3c-4e75-a931-5c89701abe66',
-				'a1p学生'=>'e82ae690-a2d5-4d76-8d30-7c6e01e6022e',
-				'a1p教职工'=>'78e66a63-337a-4a9a-8959-41c6654dfb56'
+				'a1教职工'=>'94763226-9b3c-4e75-a931-5c89701abe66'
 			],
 		],
 		[
@@ -21,9 +19,7 @@ return [
 			'client_secret'=> getenv("2_client_secret"),
 			'sku_ids'=>[
 				'a1学生'=>'314c4481-f395-4525-be8b-2ec4bb1e9d91',
-				'a1教职工'=>'94763226-9b3c-4e75-a931-5c89701abe66',
-				'a1p学生'=>'e82ae690-a2d5-4d76-8d30-7c6e01e6022e',
-				'a1p教职工'=>'78e66a63-337a-4a9a-8959-41c6654dfb56'
+				'a1教职工'=>'94763226-9b3c-4e75-a931-5c89701abe66'
 			],
 		],
 		[
@@ -32,10 +28,7 @@ return [
 			'tenant_id'=> getenv("3_tenant_id"),
 			'client_secret'=> getenv("3_client_secret"),
 			'sku_ids'=>[
-				'a1学生'=>'314c4481-f395-4525-be8b-2ec4bb1e9d91',
-				'a1教职工'=>'94763226-9b3c-4e75-a931-5c89701abe66',
-				'a1p学生'=>'e82ae690-a2d5-4d76-8d30-7c6e01e6022e',
-				'a1p教职工'=>'78e66a63-337a-4a9a-8959-41c6654dfb56'
+				'a1教职工'=>'94763226-9b3c-4e75-a931-5c89701abe66'
 			],
 		],
 	],
